@@ -1,0 +1,6 @@
+# 核心依赖
+pyperclip>=1.8.0
+
+# Windows剪贴板功能（可选）
+Pillow>=9.0.0
+pywin32>=305

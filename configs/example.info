@@ -1,0 +1,23 @@
+# configs/example.info
+[软件信息]
+标题 = 
+名称 = 
+版本 = v1.0.0
+描述 = 
+
+[功能介绍]
+1 = 软件为Single单文件版，已开源，支持多语言切换
+2 = 软件支持......
+3 = 软件支持......
+4 = 软件支持......
+
+[软件截图]
+1 = P1.xx软件图示|© 由PureTool纯净工具站 提供|https://cdn.puretool.cn/xx.png
+
+[下载链接]
+https://cloud.189.cn/web/share?code=aAbyEbqmIFja ssv4
+https://puretool.lanzoue.com/iPKht3f4bj4h
+
+[额外信息]
+注意：部分网盘需要提取码，请在下载时留意。
+软件为开源免费工具，请从官方渠道下载以确保安全。
